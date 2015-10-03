@@ -1,1 +1,3 @@
-Stopwatch for iOS
+# Stopwatch for iOS
+
+Simple timer app.
